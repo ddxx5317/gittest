@@ -10,6 +10,8 @@ public class Test {
 		
 		System.out.println("test004");
 		System.out.println("test005");
+		
+		System.out.println("test005_ok");
 	}
 
 }
